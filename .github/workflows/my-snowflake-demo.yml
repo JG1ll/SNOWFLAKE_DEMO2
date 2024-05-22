@@ -1,4 +1,4 @@
-name: my-snowflake-demo
+run-name: my-snowflake-demo
 
 # Controls when the action will run. 
 on:
